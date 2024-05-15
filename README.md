@@ -10,7 +10,7 @@ First colab where i start path in Data Science.
   `pandas`
 - I created copies during process, at end i have copy/version 7
 
-## For replicated this file:
+## For replicated this file 🗒️ :
 1. Download the file clean_data_1_final.ipynb
 2. Open the file in Colab
 3. Download the dataset and upload to drive personal of Mail.
